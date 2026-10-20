@@ -1,0 +1,24 @@
+specialty_code,specialty,waiting,pct_within_18wks,over_52wks
+C_110,Trauma and Orthopaedic Service,851183,60.9,22043.0
+C_130,Ophthalmology Service,625063,72.2,5022.0
+X02,Other - Medical Services,622434,70.1,6134.0
+C_120,Ear Nose and Throat Service,590233,56.8,12031.0
+C_502,Gynaecology Service,586582,59.6,12885.0
+X05,Other - Surgical Services,474806,66.9,8197.0
+C_330,Dermatology Service,423217,69.0,5256.0
+C_100,General Surgery Service,384914,63.2,8213.0
+C_101,Urology Service,367027,64.8,5222.0
+C_320,Cardiology Service,362143,67.9,2790.0
+C_301,Gastroenterology Service,358127,69.7,3640.0
+X04,Other - Paediatric Services,322905,66.0,3931.0
+C_140,Oral Surgery Service,316357,53.8,7544.0
+C_400,Neurology Service,208030,62.3,2078.0
+C_340,Respiratory Medicine Service,182914,74.1,669.0
+X06,Other - Other Services,159349,76.5,1428.0
+C_410,Rheumatology Service,118397,70.4,1070.0
+C_160,Plastic Surgery Service,109605,59.4,3575.0
+C_150,Neurosurgical Service,54748,62.0,806.0
+C_300,General Internal Medicine Service,31589,72.3,222.0
+C_430,Elderly Medicine Service,27431,84.3,90.0
+C_170,Cardiothoracic Surgery Service,8798,73.6,106.0
+X03,Other - Mental Health Services,3361,82.0,6.0

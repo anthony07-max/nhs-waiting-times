@@ -1,0 +1,226 @@
+{
+  "latest_month": "August 2026",
+  "waiting_latest": 7370100,
+  "waiting_aug19": 4558291,
+  "waiting_growth_pct": 61.7,
+  "peak_month": "September 2023",
+  "peak_waiting": 7768573,
+  "pct18_latest": 65.2,
+  "pct18_aug19": 84.7,
+  "over52_latest": 113339,
+  "over52_aug19": 1468,
+  "over52_peak": 436127,
+  "over52_peak_month": "March 2021",
+  "median_latest": 12.2,
+  "median_aug19": 8.0,
+  "last_time_92pct": "September 2015",
+  "largest_specialties": [
+    {
+      "specialty": "Trauma and Orthopaedic Service",
+      "waiting": 851183,
+      "pct_within_18wks": 60.9
+    },
+    {
+      "specialty": "Ophthalmology Service",
+      "waiting": 625063,
+      "pct_within_18wks": 72.2
+    },
+    {
+      "specialty": "Other - Medical Services",
+      "waiting": 622434,
+      "pct_within_18wks": 70.1
+    }
+  ],
+  "worst_specialties": [
+    {
+      "specialty": "Oral Surgery Service",
+      "pct_within_18wks": 53.8
+    },
+    {
+      "specialty": "Ear Nose and Throat Service",
+      "pct_within_18wks": 56.8
+    },
+    {
+      "specialty": "Plastic Surgery Service",
+      "pct_within_18wks": 59.4
+    }
+  ],
+  "london_vs_rest": [
+    {
+      "period": "2019-08",
+      "area": "London",
+      "waiting": 799621,
+      "pct_within_18wks": 84.4,
+      "over_52wks": 379.0
+    },
+    {
+      "period": "2019-08",
+      "area": "Rest of England",
+      "waiting": 3625839,
+      "pct_within_18wks": 85.1,
+      "over_52wks": 990.0
+    },
+    {
+      "period": "2026-08",
+      "area": "London",
+      "waiting": 1298105,
+      "pct_within_18wks": 67.7,
+      "over_52wks": 13270.0
+    },
+    {
+      "period": "2026-08",
+      "area": "Rest of England",
+      "waiting": 5891108,
+      "pct_within_18wks": 64.6,
+      "over_52wks": 99688.0
+    }
+  ],
+  "icb_rank_london": {
+    "NHS WEST AND NORTH LONDON ICB": 7,
+    "NHS SOUTH WEST LONDON ICB": 9,
+    "NHS SOUTH EAST LONDON ICB": 10,
+    "NHS NORTH EAST LONDON ICB": 12
+  },
+  "n_icbs": 36,
+  "best_icb": [
+    "NHS CORNWALL AND THE ISLES OF SCILLY ICB",
+    73.8
+  ],
+  "worst_icb": [
+    "NHS ESSEX ICB",
+    56.3
+  ],
+  "london_trusts": [
+    {
+      "provider_name": "ROYAL FREE LONDON NHS FOUNDATION TRUST",
+      "waiting": 137947,
+      "pct_within_18wks": 62.7,
+      "pct_within_18wks_2019": NaN,
+      "over_52wks": 1334.0
+    },
+    {
+      "provider_name": "BARTS HEALTH NHS TRUST",
+      "waiting": 122536,
+      "pct_within_18wks": 64.1,
+      "pct_within_18wks_2019": 82.4,
+      "over_52wks": 1012.0
+    },
+    {
+      "provider_name": "GUY'S AND ST THOMAS' NHS FOUNDATION TRUST",
+      "waiting": 109320,
+      "pct_within_18wks": 67.7,
+      "pct_within_18wks_2019": 84.2,
+      "over_52wks": 916.0
+    },
+    {
+      "provider_name": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+      "waiting": 91102,
+      "pct_within_18wks": 66.2,
+      "pct_within_18wks_2019": 78.0,
+      "over_52wks": 2004.0
+    },
+    {
+      "provider_name": "IMPERIAL COLLEGE HEALTHCARE NHS TRUST",
+      "waiting": 84392,
+      "pct_within_18wks": 70.4,
+      "pct_within_18wks_2019": 82.8,
+      "over_52wks": 22.0
+    },
+    {
+      "provider_name": "LONDON NORTH WEST UNIVERSITY HEALTHCARE NHS TRUST",
+      "waiting": 81540,
+      "pct_within_18wks": 67.2,
+      "pct_within_18wks_2019": 84.6,
+      "over_52wks": 581.0
+    },
+    {
+      "provider_name": "UNIVERSITY COLLEGE LONDON HOSPITALS NHS FOUNDATION TRUST",
+      "waiting": 80143,
+      "pct_within_18wks": 65.5,
+      "pct_within_18wks_2019": 72.7,
+      "over_52wks": 850.0
+    },
+    {
+      "provider_name": "CHELSEA AND WESTMINSTER HOSPITAL NHS FOUNDATION TRUST",
+      "waiting": 72142,
+      "pct_within_18wks": 69.3,
+      "pct_within_18wks_2019": 92.3,
+      "over_52wks": 846.0
+    },
+    {
+      "provider_name": "ST GEORGE'S UNIVERSITY HOSPITALS NHS FOUNDATION TRUST",
+      "waiting": 70983,
+      "pct_within_18wks": 63.9,
+      "pct_within_18wks_2019": 85.0,
+      "over_52wks": 805.0
+    },
+    {
+      "provider_name": "BARKING, HAVERING AND REDBRIDGE UNIVERSITY HOSPITALS NHS TRUST",
+      "waiting": 65760,
+      "pct_within_18wks": 68.2,
+      "pct_within_18wks_2019": 77.9,
+      "over_52wks": 1257.0
+    },
+    {
+      "provider_name": "EPSOM AND ST HELIER UNIVERSITY HOSPITALS NHS TRUST",
+      "waiting": 56723,
+      "pct_within_18wks": 66.9,
+      "pct_within_18wks_2019": 86.7,
+      "over_52wks": 500.0
+    },
+    {
+      "provider_name": "LEWISHAM AND GREENWICH NHS TRUST",
+      "waiting": 55440,
+      "pct_within_18wks": 65.9,
+      "pct_within_18wks_2019": 82.2,
+      "over_52wks": 772.0
+    },
+    {
+      "provider_name": "MOORFIELDS EYE HOSPITAL NHS FOUNDATION TRUST",
+      "waiting": 42168,
+      "pct_within_18wks": 84.6,
+      "pct_within_18wks_2019": 94.3,
+      "over_52wks": 19.0
+    },
+    {
+      "provider_name": "KINGSTON AND RICHMOND NHS FOUNDATION TRUST",
+      "waiting": 38311,
+      "pct_within_18wks": 68.1,
+      "pct_within_18wks_2019": 92.1,
+      "over_52wks": 58.0
+    },
+    {
+      "provider_name": "CROYDON HEALTH SERVICES NHS TRUST",
+      "waiting": 36350,
+      "pct_within_18wks": 72.8,
+      "pct_within_18wks_2019": 92.0,
+      "over_52wks": 637.0
+    },
+    {
+      "provider_name": "THE HILLINGDON HOSPITALS NHS FOUNDATION TRUST",
+      "waiting": 32558,
+      "pct_within_18wks": 63.9,
+      "pct_within_18wks_2019": 81.2,
+      "over_52wks": 96.0
+    },
+    {
+      "provider_name": "HOMERTON HEALTHCARE NHS FOUNDATION TRUST",
+      "waiting": 25725,
+      "pct_within_18wks": 73.2,
+      "pct_within_18wks_2019": 95.6,
+      "over_52wks": 116.0
+    },
+    {
+      "provider_name": "WHITTINGTON HEALTH NHS TRUST",
+      "waiting": 22760,
+      "pct_within_18wks": 67.5,
+      "pct_within_18wks_2019": 92.2,
+      "over_52wks": 101.0
+    }
+  ],
+  "forecast_month": "August 2027",
+  "forecast_value": 7329350,
+  "forecast_lo": 7150461,
+  "forecast_hi": 7508239,
+  "backtest_mape_6m": 1.78
+}
